@@ -1,0 +1,4 @@
+sequence_id,description,length,A_count,C_count,G_count,T_count,GC_content_percent,Shannon_entropy_bits,unique_1mer_count,top_1mer,top_1mer_count,unique_2mer_count,top_2mer,top_2mer_count,unique_3mer_count,top_3mer,top_3mer_count
+sequence_001,Synthetic demonstration sequence 1,60,14,14,17,15,51.6667,1.9953,4,G,17,11,GC,9,17,TAG,7
+sequence_002,Synthetic demonstration sequence 2,60,14,14,16,16,50.0,1.9968,4,T,16,8,AT,14,12,TAT,9
+sequence_003,Synthetic demonstration sequence 3,61,16,15,15,15,49.1803,1.9994,4,A,16,16,TA,9,31,ACG,4
